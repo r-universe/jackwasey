@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "physiology"]
 	path = physiology
 	url = https://github.com/jackwasey/physiology
-	shallow = true
-	registered = true
 [submodule "PRISMAstatement"]
 	path = PRISMAstatement
 	url = https://github.com/jackwasey/prismastatement
-	shallow = true
-	registered = true
