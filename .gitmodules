@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "physiology"]
-	path = physiology
-	url = https://github.com/jackwasey/physiology
 [submodule "PRISMAstatement"]
 	path = PRISMAstatement
 	url = https://github.com/jackwasey/prismastatement
+[submodule "physiology"]
+	path = physiology
+	url = https://github.com/jackwasey/physiology
